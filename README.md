@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi 👋 , I'm BEZTNEON.
+
+## 💻 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,ps,vscode,androidstudio,github,git)](https://skillicons.dev)
 
 <!--
 **BEZTNEON/BEZTNEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
